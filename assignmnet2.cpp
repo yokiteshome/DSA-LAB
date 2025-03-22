@@ -73,14 +73,7 @@ int main() {
 
 
     int age=20;
-    // double gpa1,gpa2;
 
-
-    // cout<<"What is the first semester's gpa?: "<<endl;
-    // cin>>gpa1;
-    // cout<<"What is the second semester's gpa?: "<<endl;
-    // cin>>gpa2;
-    // double cgpa= (gpa1+gpa2)/2;
 
     cout<<"yordi::assignment is: "<<yordi::assignment(age)<<endl;
     cout<<"elshu::assignment is: "<<elshu::assignment(elshu.cgpa)<<endl;
@@ -88,34 +81,5 @@ int main() {
 
     return 0;
 }
-// }
-
-// namespace yordi {
-//     int assignment(int age) {
-//         return age;
-//     }
-// }
-
-// namespace elshu {
-//     double assignment(double cgpa) {
-//         return cgpa;
-//     }
-// }
-//  int main() {
-//     // int age=20;
-    // double gpa1,gpa2;
-
-
-    // cout<<"What is the first semester's gpa?: "<<endl;
-    // cin>>gpa1;
-    // cout<<"What is the second semester's gpa?: "<<endl;
-    // cin>>gpa2;
-    // double cgpa= (gpa1+gpa2)/2;
-
-    // cout<<"yordi::assignment is: "<<yordi::assignment(age)<<endl;
-    // cout<<"elshu::assignment is: "<<elshu::assignment(cgpa)<<endl;
-    // return 0;
-//  }
-
 
 
